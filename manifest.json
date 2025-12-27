@@ -4,7 +4,7 @@
   "version": "0.1.1",
   "minAppVersion": "1.4.0",
   "main": "main.js",
-  "description": "Browse spaced-repetition flashcards ordered by ease with optional deck filtering.",
+  "description": "Browse spaced-repetition flashcards by ease or due date with deck filtering and keyboard navigation.",
   "author": "Matthias / Codex",
   "isDesktopOnly": false
 }
