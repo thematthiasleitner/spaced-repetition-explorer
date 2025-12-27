@@ -2,6 +2,8 @@
 
 Browse your Obsidian Spaced Repetition flashcards ordered by ease or due date, with deck selection, keyboard navigation, and inline front/back rendering.
 
+> Credit: This plugin is heavily inspired by, and would not exist without, the excellent [Obsidian Spaced Repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) plugin. All scheduling logic and flashcard parsing remain theirs; this explorer is just a companion browser.
+
 ## Features
 - Deck tree view with the same icon and feel as the Spaced Repetition plugin.
 - Card browser sorted by lowest ease or earliest due date.
@@ -18,4 +20,5 @@ Browse your Obsidian Spaced Repetition flashcards ordered by ease or due date, w
 - `versions.json` tracking releases.
 - `main.js` bundle with plugin code.
 - `styles.css` (even if minimal) for future styling.
+- `LICENSE` in the repository.
 - A tagged release (e.g., `0.1.0`) containing these files for the Obsidian community catalog.
