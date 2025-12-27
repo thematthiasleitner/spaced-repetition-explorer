@@ -1,7 +1,7 @@
 {
   "id": "spaced-repetition-explorer",
   "name": "Spaced Repetition Explorer Extension",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "1.4.0",
   "main": "main.js",
   "description": "Browse spaced-repetition flashcards ordered by ease with optional deck filtering.",
